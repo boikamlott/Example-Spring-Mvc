@@ -1,0 +1,4 @@
+URL du tuto pour demarrer le projet avec eclipse: https://crunchify.com/simplest-spring-mvc-hello-world-example-tutorial-spring-model-view-controller-tips/
+Commande pour installer Postgresql avec Docker:  docker run -p 5432:5432 -e POSTGRES_PASSWORD=mysecretpassword -d postgres
+Commande pour se connecter a Postgresql via cli:psql -h localhost -p 5432 -U postgres -W
+
